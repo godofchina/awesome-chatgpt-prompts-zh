@@ -72,7 +72,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 |                    直接加群                     |               如果前面的无法使用，加我拉你入群               |                         
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/godofchina/awesome-chatgpt-prompts-zh/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230219142317.jpg" width="300"/> | <img src="https://github.com/godofchina/awesome-chatgpt-prompts-zh/blob/main/ghfqrtqrer.png" width="300"/> | 
+| <img src="https://github.com/godofchina/awesome-chatgpt-prompts-zh/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230219142317.jpg" width="300"/> | <img src="https://github.com/godofchina/awesome-chatgpt-prompts-zh/blob/main/rtwertw.png" width="300"/> | 
 
 
 # 正经指南
