@@ -27,7 +27,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ## 解除封印咒语
 
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在 [这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
+#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在 [这里](https://github.com/godofchina/awesome-chatgpt-prompts-zh/issues/12)
 
 #### [更多猫娘玩法点这个](./cat.md)
 
